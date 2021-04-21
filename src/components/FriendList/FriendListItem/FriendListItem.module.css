@@ -6,17 +6,21 @@
   background: #000;
   border-radius: 50%;
 }
-.item span {
-  font-weight: bold;
+.online span, .offline span {
+  font-size: 12px;
+}
+.online img, .offline img {
+  width: 50px;
+  height: 50px;
 }
 .online img {
-  border: 5px solid darkgreen;
+  border: 3px solid darkgreen;
 }
 .online span {
   color: darkgreen;
 }
 .offline img {
-  border: 5px solid red;
+  border: 3px solid red;
 }
 .offline span {
   color: red;

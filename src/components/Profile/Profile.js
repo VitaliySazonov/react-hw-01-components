@@ -12,25 +12,29 @@ let Profile = ({name, tag, location, avatar, stats}) => {
           width='120'
         />
       </div>
-      <ul className="stats">
-        <li>
-          <p className="name">{name}</p>
-          <p className="tag">@{tag}</p>
-          <p className="location">{location}</p>
-        </li>
-        <li>
-          <span className="label">Followers</span>
-          <span className="quantity">{stats.followers}</span>
-        </li>
-        <li>
-          <span className="label">Views</span>
-          <span className="quantity">{stats.likes}</span>
-        </li>
-        <li>
-          <span className="label">Likes</span>
-          <span className="quantity">{stats.views}</span>
-        </li>
-      </ul>
+      <div>
+        <div>
+          <p className={styles.name}>{name}</p>
+          <span className={styles.tag}>@{tag} | </span>
+          <span className={styles.location}>{location}</span>
+        </div>
+        <ul className={styles.stats}>
+    
+          <li>
+            <p className={styles.quantity}>{stats.followers}</p>
+            <p className={styles.label}>Followers</p>
+          </li>
+          <li>
+            <p className={styles.quantity}>{stats.likes}</p>
+            <p className={styles.label}>Views</p>
+          </li>
+          <li>
+            <p className={styles.quantity}>{stats.views}</p>
+            <p className={styles.label}>Likes</p>
+          </li>
+        </ul>
+      </div>
+      
     </section>
   )
 }

@@ -1,3 +1,4 @@
 .friendList {
   display: flex;
+  justify-content: space-around;
 }

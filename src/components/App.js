@@ -45,20 +45,24 @@ let App = () => {
     //     />
     //   </Section>
     // </>
-    <>
-      <Profile
-        name={user.name}
-        tag={user.tag}
-        location={user.location}
-        avatar={user.avatar}
-        stats={user.stats}
-      />
-      <FriendList friends={friends}/>
-      <Statistics title="Upload stats" stats={statisticalData} />
-      <Statistics stats={statisticalData} />
+    <div className='main'>
+      <div className='leftSection'>
+        <Profile
+          name={user.name}
+          tag={user.tag}
+          location={user.location}
+          avatar={user.avatar}
+          stats={user.stats}
+        />
+        <hr/>
+        <FriendList friends={friends}/>
+        <hr/>
+        <Statistics stats={statisticalData} />
+        <Statistics title="Upload stats" stats={statisticalData} />
+      </div>
       <TransactionHistory items={transactions}/>
       {/*<BookList books={favoriteBooks}/>*/}
-    </>
+    </div>
   )
   
 }
