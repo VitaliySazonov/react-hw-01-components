@@ -3,16 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a2226296-76a3-498c-a4d4-707bcb0dd416" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FriendList/FriendList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FriendList/FriendList.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FriendList/FriendListItem/FriendListItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FriendList/FriendListItem/FriendListItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Statistics/Statistics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Statistics/Statistics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Statistics/Statistics.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Statistics/Statistics.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TransactionHistory/TransactionHistory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TransactionHistory/TransactionHistory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TransactionHistory/TransactionHistory.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TransactionHistory/TransactionHistory.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Администратор\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
@@ -65,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618745568748</updated>
       <workItem from="1618745573213" duration="14348000" />
-      <workItem from="1618948402859" duration="17009000" />
+      <workItem from="1618948402859" duration="18019000" />
     </task>
     <servers />
   </component>
@@ -85,6 +79,22 @@
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2615" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1618756124796" />
+    <state width="1874" height="260" key="GridCell.Tab.0.bottom" timestamp="1619039588750">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.bottom/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1619039588750" />
+    <state width="1874" height="260" key="GridCell.Tab.0.center" timestamp="1619039588750">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.center/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1619039588750" />
+    <state width="1874" height="260" key="GridCell.Tab.0.left" timestamp="1619039588750">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.left/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1619039588750" />
+    <state width="1874" height="260" key="GridCell.Tab.0.right" timestamp="1619039588750">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.right/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1619039588750" />
     <state x="2386" y="0" width="998" height="1040" key="SettingsEditor" timestamp="1618753994390">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
